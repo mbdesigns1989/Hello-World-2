@@ -4,13 +4,13 @@
   box-sizing: border-box;
 }
 
+body {
+  background: cadetblue;
+}
+
 .title {
   margin-top: 200px;
   text-align: center;
   color: red;
   font-size: 100px;
-}
-
-body {
-  background: cadetblue;
 }
