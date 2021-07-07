@@ -6,7 +6,7 @@
 
 # Screen Shot
 
-![screenshot](./app_screenshot.png)
+![screenshot](./asstes/download.jpg)
 
 Additional description about the project and its features.
 
@@ -19,7 +19,8 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://raw.githack.com/mbdesigns1989/Hello-World-2/feature-branch/A.html)
+
 
 
 ## Getting Started
